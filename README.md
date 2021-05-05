@@ -1,7 +1,7 @@
 <h2 align="center">Koi Client Launcher</h2>
 
 <p align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngix.com%2Fviewpng%2FmTiobo_set-of-16-logos-avatars-mascots-illustrations-avatar%2F&psig=AOvVaw0kgrbKNlJaQiQUL717-qo3&ust=1620335663387000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjPgoG7s_ACFQAAAAAdAAAAABAN" width="840" height="511"/>
+    <img src="https://imgur.com/wem1qxg" width="150" height="150"/>
 </p>
 
 # Information
