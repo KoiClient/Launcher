@@ -1,7 +1,7 @@
 <h2 align="center">Koi Client Launcher</h2>
 
 <p align="center">
-    <img src="" width="150" height="150"/>
+    <img src="https://imgur.com/bDW5Ir8" width="150" height="150"/>
 </p>
 
 # Information
